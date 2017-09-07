@@ -8,7 +8,7 @@ install.packages("gdata")
 getwd()
 
 #Change the working directory to point to the location where the data files are stored
-setwd('C:/YYYYYY/AMMA 2017/Data/data_2017/Session 2')
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 
 
 # relevant packages for random forest functions and input/output orerations respectively
