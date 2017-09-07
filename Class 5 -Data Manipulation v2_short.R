@@ -3,7 +3,7 @@
 # -----------------------  Read data
 
 # set up library
-setwd("C:\YYYYYY\AMMA 2017\DATA\data_2017")
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 # read data
 prd_spend <-read.csv(file="prod_spend.csv",
                      head=T)
