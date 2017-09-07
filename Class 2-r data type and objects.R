@@ -445,6 +445,7 @@ mtcars[12,c(2,5,7)] # by index
 # Excluding column 3
 mat.car<- mtcars[, -c(3)]
 
+
 View(mtcars)
 
 var1 <-mtcars$mpg
