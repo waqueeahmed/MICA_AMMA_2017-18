@@ -15,6 +15,7 @@ spend.feb14
 
 
 
+
 # Append multiple data frames
 spend.jan.feb14 <- rbind(spend.jan14,
                          spend.feb14)
