@@ -1,6 +1,6 @@
 # Set up working directory
 
-setwd("C:\YYYYYY\AMMA 2017\DATA\data_2017")
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 
 
 # Read data
