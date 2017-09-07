@@ -4,7 +4,7 @@ install.packages("Rcmdr")
 library("Rcmdr")
 install.packages('rJava')
 
-setwd('C:/YYYYYY/AMMA 2017/Data/data_2017/Session 2')
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 
 #R imports and stores the data in a data frame called "dt"
 dt<-read.csv("train.csv")
