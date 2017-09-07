@@ -36,6 +36,7 @@ write.csv(y,"univ_cont.csv")
 
 
 
+
 library(psych)
 #library(help=psych)
 
