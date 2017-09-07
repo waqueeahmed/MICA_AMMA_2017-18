@@ -72,7 +72,7 @@ a <- c(rbinom(10,4,0.5))
 ifelse(a>2,"Yes","No")
 # replace negative spend value with 0
 # set up library
-setwd("C:\\Ram\\R for Data Science\\data")
+setwd("C:\YYYYYY\AMMA 2017\DATA\data_2017")
 # read data
 prd_spend <-read.csv(file="prod_spend.csv",
                      head=T)
