@@ -6,7 +6,7 @@
 
 getwd()
 
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 
 install.packages("data.table")
 install.packages("datasets")
@@ -27,7 +27,7 @@ View(result)
 
 getwd()
 
-setwd("C:\\YYYYYY\\AMMA 2017\\Data\\data_2017")
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 
 input_popcity.df<-read.csv("Population city data.csv",header=T)
 View(input_popcity.df)
