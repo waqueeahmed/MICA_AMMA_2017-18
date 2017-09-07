@@ -36,6 +36,7 @@ round(a,0)
  
  norm.vect.3 <-  norm.vect<=3 &  norm.vect >=-3
  
+
  sum(norm.vect.3)/length(norm.vect.3)
  
  # what is probability that a standard normal random number be between 0 and 1?
