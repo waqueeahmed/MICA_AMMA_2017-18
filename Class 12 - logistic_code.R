@@ -23,7 +23,7 @@ library(dplyr)
 cat("\014") # Clearing the screen
 
 # Setting the working directory
-setwd("C:/mica/data")
+setwd("C:/YYYYYY/AMMA 2017/DATA/data_2017")
 getwd()
 
 # reading client datasets
